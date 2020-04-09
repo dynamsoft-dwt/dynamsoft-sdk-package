@@ -1,0 +1,27 @@
+{
+  "name": "dynamsoft-sdk",
+  "version": "1.0.0",
+  "description": "Dynamsoft SDKs for the web",
+  "main": "dist/dynamsoft.sdk.js",
+  "dependencies": {
+    "dwt": "15.3.2-sdk"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dynamsoft-dwt/dynamsoft-sdk-package.git"
+  },
+  "keywords": [
+    "dynamsoft",
+    "barcode",
+    "upload"
+  ],
+  "author": "Dynamsoft - Tom Kent",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/dynamsoft-dwt/dynamsoft-sdk-package/issues"
+  },
+  "homepage": "https://github.com/dynamsoft-dwt/dynamsoft-sdk-package#readme"
+}
